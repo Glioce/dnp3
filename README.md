@@ -25,6 +25,7 @@ localhost:8080
 
 ## Instalar SCADABR  
 ### Windows  
+https://www.youtube.com/watch?v=OLRvenXLPtU  
 Descargar e instalar Java Runtime Environment 6  
 https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html  
 Descargar e instalar SCADABR 1.0  
