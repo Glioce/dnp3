@@ -22,3 +22,10 @@ cd OpenPLC_v3
 
 Puerto OpenPLC  
 localhost:8080  
+
+## Instalar SCADABR  
+### Windows  
+Descargar e instalar Java Runtime Environment 6  
+https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html  
+Descargar e instalar SCADABR 1.0  
+https://sourceforge.net/projects/scadabr/files/latest/download  
