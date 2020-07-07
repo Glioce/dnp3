@@ -1,10 +1,12 @@
-# dnp3
+# DNP3
 
 DNP3  
 https://es.wikipedia.org/wiki/DNP3  
+https://www.youtube.com/watch?v=CwMFrvins5Q  
 
 SCADA  
 https://es.wikipedia.org/wiki/SCADA  
+https://www.youtube.com/watch?v=X0U8-4ZPcro  
 
 Algunos dispositivos Sonoff están basados en ESP8266  
 https://sonoff.tech  
@@ -42,6 +44,9 @@ En los últimos ajustes de instalación cambiar el puerto a 9090 para evitar con
 Video de referencia
 https://www.youtube.com/watch?v=OLRvenXLPtU  
 
+Manual ScadaBR  
+https://sourceforge.net/p/scadabr/wiki/Manual%20ScadaBR%20English%200%20Summary/  
+
 ## Ejecutar ScadaBR
 ### Windows
 Ejecutar cmd como administrador
@@ -55,3 +60,7 @@ sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh
 https://ladderlogicworld.com  
 http://www.plcs.net/contents.shtml  
 https://www.youtube.com/user/andrewskvortzov/videos  
+
+## Otros temas relacionados
+https://en.wikipedia.org/wiki/Industrial_internet_of_things  
+https://es.wikipedia.org/wiki/Protocolo_simple_de_administración_de_red  
