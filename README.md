@@ -23,10 +23,30 @@ cd OpenPLC_v3
 Puerto OpenPLC  
 localhost:8080  
 
-## Instalar SCADABR  
+## Ejecutar OpenPLC Runtime
+### Windows
+Menú Inicio / OpenPLC Runtime  
+
+### Linux
+cd .../OpenPLC_v3
+./start_openplc.sh
+
+## Instalar ScadaBR  
 ### Windows  
-https://www.youtube.com/watch?v=OLRvenXLPtU  
 Descargar e instalar Java Runtime Environment 6  
 https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html  
 Descargar e instalar SCADABR 1.0  
 https://sourceforge.net/projects/scadabr/files/latest/download  
+En los últimos ajustes de instalación cambiar el puerto a 9090 para evitar conflictos con el 8080 que usa OpenPLC  
+
+Video de referencia
+https://www.youtube.com/watch?v=OLRvenXLPtU  
+
+## Ejecutar ScadaBR
+### Windows
+Ejecutar cmd como administrador
+cd C:\Program Files\ScadaBR\bin
+startup.sh
+
+### Linux
+sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh
