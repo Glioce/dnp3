@@ -50,3 +50,8 @@ startup.sh
 
 ### Linux
 sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh
+
+## Tutoriales lógica cableada y Beremiz Editor
+https://ladderlogicworld.com  
+http://www.plcs.net/contents.shtml  
+https://www.youtube.com/user/andrewskvortzov/videos  
