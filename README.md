@@ -49,9 +49,9 @@ https://sourceforge.net/p/scadabr/wiki/Manual%20ScadaBR%20English%200%20Summary/
 
 ## Ejecutar ScadaBR
 ### Windows
-Ejecutar cmd como administrador
-cd C:\Program Files\ScadaBR\bin
-startup.sh
+Ejecutar cmd como administrador  
+`cd C:\Program Files\ScadaBR\bin`  
+`startup.sh`  
 
 ### Linux
 sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh
