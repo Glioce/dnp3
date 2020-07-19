@@ -14,13 +14,18 @@ https://sonoff.tech
 Open PLC puede funcionar como DNP3 Outstation  
 https://openplcproject.com/reference/dnp3-outstation/  
 Se debe instalar la versión "development" para usar el protocolo DNP3
-(según la documentación, no funciona en Windows, pero podríamos probar).
-Escribe las siguientes instrucciones en la consola.
+(según la documentación, no funciona en Windows, pero podemos probar).
+
+Usa las siguientes instrucciones para instalar la versión development en Linux.  
 ```
 git clone -b development https://github.com/thiagoralves/OpenPLC_v3.git
 cd OpenPLC_v3
 ./install.sh linux
 ```
+
+Para instalar la versión estándar en Windows, usar el instalador.
+La ruta de instalación no debe tener espacios.  
+https://www.openplcproject.com/runtime/windows/
 
 Puerto OpenPLC  
 localhost:8080  
@@ -30,8 +35,10 @@ localhost:8080
 Menú Inicio / OpenPLC Runtime  
 
 ### Linux
+```
 cd .../OpenPLC_v3
 ./start_openplc.sh
+```
 
 ## Instalar ScadaBR  
 ### Windows  
@@ -54,7 +61,7 @@ Ejecutar cmd como administrador
 `startup.bat`  
 
 ### Linux
-sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh
+`sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh`
 
 ## Tutoriales lógica cableada y Beremiz Editor
 https://ladderlogicworld.com  
