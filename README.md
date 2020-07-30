@@ -11,7 +11,12 @@ https://www.youtube.com/watch?v=X0U8-4ZPcro
 Algunos dispositivos Sonoff están basados en ESP8266  
 https://sonoff.tech  
 
-Open PLC puede funcionar como DNP3 Outstation  
+Open PLC 
+Funciona como un servidor web que se comunica con otros dispositivos por diferentes puertos. Se pueden agregar terminales de entrada y salida con Arduino (u otros disposirivos compatibles con Arduino).  
+https://github.com/thiagoralves/OpenPLC_v3  
+https://github.com/thiagoralves/OpenPLC_v3/tree/development  
+
+Pede funcionar como DNP3 Outstation  
 https://openplcproject.com/reference/dnp3-outstation/  
 Se debe instalar la versión "development" para usar el protocolo DNP3
 (según la documentación, no funciona en Windows, pero podemos probar).
