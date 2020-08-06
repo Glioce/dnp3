@@ -72,6 +72,9 @@ startup.bat
 ```
 sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh
 ```
+## Configuración de OpenPLC development brach 
+Este ejemplo es de una versión anterior  
+https://openplc.discussion.community/post/openplc-with-scadabr-and-dnp3-10501470?pid=1311343872  
 
 ## Tutoriales lógica cableada y Beremiz Editor
 https://ladderlogicworld.com  
