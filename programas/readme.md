@@ -1,1 +1,1 @@
-Esta carpeta contine programas creados con OpenPLC Editor.
+Esta carpeta contine programas creados con OpenPLC Editor y Arduino.
