@@ -81,6 +81,16 @@ https://ladderlogicworld.com
 http://www.plcs.net/contents.shtml  
 https://www.youtube.com/user/andrewskvortzov/videos  
 
+## Bibliotecas para sensor ultrasónico  
+Esta funciona muy bien con AVR, pero hay algunas incompatibilidades con ESP8266  
+https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home  
+
+Aquí tenermos un fork de la biblioteca anterior para ESP8266, funciona bien  
+https://github.com/jshaw/NewPingESP8266  
+
+Esta no se ha probado  
+https://github.com/eadf/esp8266_ping  
+
 ## Otros temas relacionados
 https://en.wikipedia.org/wiki/Industrial_internet_of_things  
 https://es.wikipedia.org/wiki/Protocolo_simple_de_administración_de_red  
