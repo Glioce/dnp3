@@ -8,9 +8,7 @@ https://www.dpstele.com/pdfs/white_papers/dnp3_tutorial.pdf
 SCADA  
 https://es.wikipedia.org/wiki/SCADA  
 https://www.youtube.com/watch?v=X0U8-4ZPcro  
-
-Algunos dispositivos Sonoff están basados en ESP8266  
-https://sonoff.tech  
+https://na.eventscloud.com/file_uploads/ea71f859feae020526fd797b0195b9eb_SCADAforRelayTechs-SlidesNotes-HRS2019.pdf  
 
 Open PLC 
 Funciona como un servidor web que se comunica con otros dispositivos por diferentes puertos. Se pueden agregar terminales de entrada y salida con Arduino (u otros disposirivos compatibles con Arduino).  
