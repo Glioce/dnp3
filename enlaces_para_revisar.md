@@ -23,17 +23,27 @@ http://zaguan.unizar.es/record/61143?ln=es#
 DNP Users Group promueven y desarrollan el protocolo  
 https://www.dnp.org  
 
-
-
-
-usar un protocolo diferente, compatible con SCADA en Arduino  
+Usar un protocolo diferente, compatible con SCADA en Arduino  
 http://www.acimut.com/monitoriza/monitorizaforarduino.html  
 https://forum.arduino.cc/index.php?topic=293301.0  
 
-usar Raspberry Pi en lugar de Arduino  
+Usar Raspberry Pi en lugar de Arduino  
 https://github.com/dnp3/rpi-dnp3-gpio  
 https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1020&context=cs_etd  
 
 ## Temas del foro
 Tabla de mapeo de variables y ejemplo de data source en ScadaBR  
 https://openplc.discussion.community/post/dnp3-9658843?pid=1303329375  
+
+Ideas para comunicar con otras aplicaciones y cómo cambiar periodo de muestreo en OpenPLC Editor  
+https://openplc.discussion.community/post/interprocess-communications-with-openplc-8475793  
+
+Mencionan VPN como forma segura de acceder de forma remota  
+https://openplc.discussion.community/post/security-enhancement-scada-amp-openplc-10416769?pid=1310670704  
+
+Fábrica de automóviles. REVISAR  
+https://openplc.discussion.community/post/relay-output-state-on-controlled-plc-stop-10565318?pid=1311772764
+
+## Información extra
+Algunos dispositivos Sonoff están basados en ESP8266  
+https://sonoff.tech  
